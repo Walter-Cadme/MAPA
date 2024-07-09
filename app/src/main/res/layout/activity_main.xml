@@ -28,7 +28,7 @@
         android:layout_height="30dp"
         android:layout_marginTop="8dp"
         android:background="#00BCD4"
-        android:text="LUGARES TURISTICOS"
+        android:text="LUGARES TURISTICOS DE QUEVEDO"
         android:textColor="#1F1E1D"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
